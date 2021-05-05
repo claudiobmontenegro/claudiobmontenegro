@@ -1,6 +1,5 @@
 <h2 align="center">Olá, bem-vindo ao meu repositório.</h1>
 <p align="center">🔭 Atualmente cursando<strong> Ciência da Computação (P6)</strong>.</p>
-<p align="center">🌱 Cursos em progresso: <strong> Java Avançado, Desenvolvimento WEB, Metodologias Ágeis</strong></p>
 <p align="center">📫 Redes Sociais ↓ ↓ ↓
 
 <p align="center">
