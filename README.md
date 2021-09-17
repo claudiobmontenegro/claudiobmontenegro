@@ -1,5 +1,5 @@
 <h2 align="center">Olá, bem-vindo ao meu repositório.</h1>
-<p align="center">🔭 Atualmente cursando<strong> Ciência da Computação (P7)</strong>.</p>
+<p align="center">🔭 Atualmente cursando<strong> Ciência da Computação (P8)</strong>.</p>
 <p align="center">📫 Redes Sociais ↓ ↓ ↓
 
 <p align="center">
